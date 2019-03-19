@@ -1,0 +1,6 @@
+github.com/lxn/walk v0.0.0-20180502114604-a89b4f3e6b89 h1:IdEw4S2ty65d88L0oIqQ98jboEjCdoIHkoJhtRx8nx8=
+github.com/lxn/walk v0.0.0-20180502114604-a89b4f3e6b89/go.mod h1:E23UucZGqpuUANJooIbHWCufXvOcT6E7Stq81gU+CSQ=
+github.com/lxn/win v0.0.0-20180430062051-7e1250ba2e77 h1:+LjVOXBs2EWg2c4XJ/eF7YLe7r2a5ySAt+lmfsAaBao=
+github.com/lxn/win v0.0.0-20180430062051-7e1250ba2e77/go.mod h1:jACzEp9RV7NhfPJQkiCNTteU4nkZZVlvkNpYtVOZPfE=
+gopkg.in/Knetic/govaluate.v3 v3.0.0 h1:18mUyIt4ZlRlFZAAfVetz4/rzlJs9yhN+U02F4u1AOc=
+gopkg.in/Knetic/govaluate.v3 v3.0.0/go.mod h1:csKLBORsPbafmSCGTEh3U7Ozmsuq8ZSIlKk1bcqph0E=

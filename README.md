@@ -6,7 +6,7 @@ It discovers the DDDA save directory by querying the Windows Registry for your S
 
 ## Building
 
-You can build the application with:
+This project uses Go 1.11 modules and should be built outside of the GOPATH. You can build the application with:
 
 ```
 go build -ldflags="-H windowsgui"
